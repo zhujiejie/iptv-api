@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,上海都市
+http://8.138.7.223/tv/shtv.php?id=ds
+#EXTINF:-1,上海新闻综合
+http://8.138.7.223/tv/shtv.php?id=xwzh
+#EXTINF:-1,上海纪实人文
+http://8.138.7.223/tv/shtv.php?id=xjs
